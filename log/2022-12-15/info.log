@@ -1,0 +1,4 @@
+2022/12/15 - 11:20:52.442	[34minfo[0m	D:/GoHub/gin-vue-admin-2.5.4/server/initialize/gorm.go:63	register table success
+2022/12/15 - 11:20:52.447	[34minfo[0m	D:/GoHub/gin-vue-admin-2.5.4/server/initialize/router.go:38	register swagger handler
+2022/12/15 - 11:20:52.461	[34minfo[0m	D:/GoHub/gin-vue-admin-2.5.4/server/initialize/router.go:81	router register success
+2022/12/15 - 11:20:52.474	[34minfo[0m	D:/GoHub/gin-vue-admin-2.5.4/server/core/server.go:36	server run success on 	{"address": ":8888"}

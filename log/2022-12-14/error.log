@@ -1,0 +1,7 @@
+2022/12/14 - 15:14:24.254	[31merror[0m	D:/GoHub/gin-vue-admin-2.5.4/server/api/v1/system/sys_user.go:42	登陆失败! 用户名不存在或者密码错误!	{"error": "db not init"}
+2022/12/14 - 15:14:38.751	[31merror[0m	D:/GoHub/gin-vue-admin-2.5.4/server/api/v1/system/sys_user.go:42	登陆失败! 用户名不存在或者密码错误!	{"error": "db not init"}
+2022/12/14 - 15:14:52.392	[31merror[0m	D:/GoHub/gin-vue-admin-2.5.4/server/api/v1/system/sys_initdb.go:34	自动创建数据库失败!	{"error": "dial tcp 127.0.0.1:3306: connectex: No connection could be made because the target machine actively refused it."}
+2022/12/14 - 15:19:13.586	[31merror[0m	D:/GoHub/gin-vue-admin-2.5.4/server/api/v1/system/sys_menu.go:29	获取失败!	{"error": "Error 1146: Table 'gva.sys_authority_menus' doesn't exist"}
+2022/12/14 - 15:19:13.671	[31merror[0m	D:/GoHub/gin-vue-admin-2.5.4/server/api/v1/system/sys_user.go:413	获取失败!	{"error": "Error 1146: Table 'gva.sys_users' doesn't exist"}
+2022/12/14 - 15:19:18.222	[31merror[0m	D:/GoHub/gin-vue-admin-2.5.4/server/api/v1/system/sys_menu.go:29	获取失败!	{"error": "Error 1146: Table 'gva.sys_authority_menus' doesn't exist"}
+2022/12/14 - 15:19:18.314	[31merror[0m	D:/GoHub/gin-vue-admin-2.5.4/server/api/v1/system/sys_user.go:413	获取失败!	{"error": "Error 1146: Table 'gva.sys_users' doesn't exist"}

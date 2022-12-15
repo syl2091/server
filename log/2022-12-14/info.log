@@ -1,0 +1,11 @@
+2022/12/14 - 15:13:23.865	[34minfo[0m	D:/GoHub/gin-vue-admin-2.5.4/server/initialize/router.go:37	register swagger handler
+2022/12/14 - 15:13:23.894	[34minfo[0m	D:/GoHub/gin-vue-admin-2.5.4/server/initialize/router.go:79	router register success
+2022/12/14 - 15:13:23.905	[34minfo[0m	D:/GoHub/gin-vue-admin-2.5.4/server/core/server.go:36	server run success on 	{"address": ":8888"}
+2022/12/14 - 15:14:39.372	[34minfo[0m	D:/GoHub/gin-vue-admin-2.5.4/server/api/v1/system/sys_initdb.go:57	前往初始化数据库
+2022/12/14 - 15:19:19.932	[34minfo[0m	D:/GoHub/gin-vue-admin-2.5.4/server/api/v1/system/sys_initdb.go:57	数据库无需初始化
+2022/12/14 - 15:19:21.951	[34minfo[0m	D:/GoHub/gin-vue-admin-2.5.4/server/api/v1/system/sys_initdb.go:57	数据库无需初始化
+2022/12/14 - 15:19:37.938	[34minfo[0m	D:/GoHub/gin-vue-admin-2.5.4/server/api/v1/system/sys_initdb.go:57	数据库无需初始化
+2022/12/14 - 15:20:24.831	[34minfo[0m	D:/GoHub/gin-vue-admin-2.5.4/server/initialize/router.go:37	register swagger handler
+2022/12/14 - 15:20:24.848	[34minfo[0m	D:/GoHub/gin-vue-admin-2.5.4/server/initialize/router.go:79	router register success
+2022/12/14 - 15:20:24.864	[34minfo[0m	D:/GoHub/gin-vue-admin-2.5.4/server/core/server.go:36	server run success on 	{"address": ":8888"}
+2022/12/14 - 15:21:09.665	[34minfo[0m	D:/GoHub/gin-vue-admin-2.5.4/server/api/v1/system/sys_initdb.go:57	前往初始化数据库
